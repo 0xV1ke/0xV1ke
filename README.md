@@ -8,6 +8,7 @@ My current **roadmap** for the topics I'm currently interested in:
   - [ ] SQL Course + Database Design
   - [ ] Business App using Symfony 6 + Vue.js
   - [ ] Laravel Documentation
+  - [ ] Laravel + Vue.js project
 
 - Web Development
   - [ ] The Odin Project - Foundations
@@ -18,7 +19,8 @@ My current **roadmap** for the topics I'm currently interested in:
 - Computer Science
   - [ ] Structure And Interpretation of Computer Programs
   - [ ] Vim
-  - [ ] Catch Up 
+  - [ ] The C Programming Language
+  - [ ] Learn OpenGL
 
 - Khan Academy - Re-learning Math
   - [ ] Arithmetic
@@ -34,4 +36,4 @@ My current **roadmap** for the topics I'm currently interested in:
   - [ ] Integral Calculus
   - [ ] Multivariable Calculus
  
-  Ideally by 31/12/2024, I should've ticked at least a box of each.
+  Ideally by 31/12/2024, I should've ticked at least a box of each section.
