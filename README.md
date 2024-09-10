@@ -9,6 +9,9 @@ My current **roadmap** for the topics I'm currently interested in:
   - [ ] Business App using Symfony 6 + Vue.js
   - [ ] Laravel Documentation
   - [ ] Laravel + Vue.js project
+  - Learn Java
+    - [ ] MOOC & Dev.java - Foundational knowledge about the language
+    - [ ] Spring Book by Laurentiu Splica
 
 - Web Development
   - [ ] The Odin Project - Foundations
