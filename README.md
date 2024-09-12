@@ -1,17 +1,28 @@
-Self-teaching computer science and web development.
+# Roadmap
 
-My current **roadmap** for the topics I'm currently interested in:
+## To complete by 31/12/2024
 
-- Delve deeper into workplace stack:
+- Symfony/Vue/Docker App
+- The Odin Project
+- High school level algebra/arithmetics/geometry
+
+
+## Topics I'm currently interested in:
+
+- Workplace stack (Symfony + Vue.js):
   - [ ] Symfony 6 book
   - [ ] Vue.js Crash Course
+  - [ ] Docker Course
+  - [ ] App using Symfony 6 + Vue.js + Docker
   - [ ] SQL Course + Database Design
-  - [ ] Business App using Symfony 6 + Vue.js
-  - Learn Java
-    - [ ] MOOC & Dev.java - Foundational knowledge about the language
-    - [ ] Spring Book by Laurentiu Splica
 
-- Web Development
+- Secondary work stack (Spring + Angular.js):
+  - [ ] MOOC & Dev.java - Foundational knowledge about the language
+  - [ ] Angular Crash Course
+  - [ ] Spring Book by Laurentiu Splica
+  - [ ] App using Spring + Angular + Docker
+
+- MERN Stack + General Web Development
   - [ ] The Odin Project - Foundations
   - [ ] The Odin Project - Javascript Path
   - [ ] Full Stack Open 0-7
@@ -21,9 +32,13 @@ My current **roadmap** for the topics I'm currently interested in:
   - [ ] Structure And Interpretation of Computer Programs
   - [ ] Vim
   - [ ] The C Programming Language
+ 
+- Graphics Programming / Game Development
+  - [ ] Learn C++
   - [ ] Learn OpenGL
+  - [ ] Research and develop a game engine
 
-- Khan Academy - Re-learning Math
+- Khan Academy (Re-learning Math)
   - [ ] Arithmetic
   - [ ] Basic geometry
   - [ ] Pre-algebra
@@ -37,4 +52,3 @@ My current **roadmap** for the topics I'm currently interested in:
   - [ ] Integral Calculus
   - [ ] Multivariable Calculus
  
-  Ideally by 31/12/2024, I should've ticked at least a box of each section.
